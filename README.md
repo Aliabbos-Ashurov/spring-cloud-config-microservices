@@ -1,4 +1,4 @@
-# Microservices Architecture for User and Notification Management
+# Spring Cloud Config Microservices
 
 This repository contains a microservices-based project that demonstrates the implementation of a **Cloud-Config** **User
 Service** and a
